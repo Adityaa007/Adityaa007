@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Suyal</h1>
 <h3 align="center">A passionate Full Stack Devloper from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,PYTHON**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, PYTHON**
 
 - 📫 How to reach me **adityasuyal169@gmail.com**
 

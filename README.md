@@ -89,29 +89,13 @@ I am a **Computer Science and Engineering** student at **Lovely Professional Uni
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Java, C++
+- **Languages**: Java, C++, Python
 - **Operating Systems**: Linux, Windows
 - **Cybersecurity Tools**: Nmap, Wireshark, Burp Suite, Hydra, John the Ripper, Sqlmap, Netcat, Social Engineering Toolkit
 - **Networking Knowledge**: Switches, routers, OSI model, protocols, ports
 - **Web Expertise**: Surface web, Deep web, Dark web
 - **Non-Technical Skills**: Quick Learner, Leadership, Outstanding Communication, Quality Focused, Event Coordinator
 
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Prize** for designing a **Mini-Computer** at the Project Exhibition by Loyola Polytechnic.
-- 💻 Successfully performed **SQL injections** and accessed multiple databases including Loyola Polytechnic College.
-- 🔍 Performed **parameter tampering** on various websites.
-- 🎉 Worked as an **Event Coordinator** at **Smart India Hackathon** and other major events.
-
----
-
-## 🎓 Certifications
-
-- **The Complete Introduction to Cybersecurity** - Cisco
-- **C++ and Data Structure** - Board Infinity
-- **Problem Solving (Intermediate)** - TryHackMe
 
 ---
 

@@ -90,9 +90,9 @@ I am a **Computer Science and Engineering** student at **Lovely Professional Uni
 
 ## 🚀 Other Interests
 
-- Passionate about **Cybersecurity** and exploring vulnerabilities.
-- Active interest in **open-source** projects and the **Linux community**.
-- Enthusiast of the **Deep Web**, understanding and researching its mechanisms.
+- Cybersecurity Enthusiast: I enjoy exploring system vulnerabilities and staying up-to-date with the latest security trends.
+-Open-Source Contributor: Actively participate in open-source initiatives and love being part of the Linux community.
+-Deep Web Researcher: Intrigued by the deep web’s workings, I like diving into its structure and learning about privacy-focused technologies.
 
 ---
 

@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-I am a **Computer Science and Engineering** student at **Lovely Professional University** with a strong foundation in **Computer Engineering** from **Loyola Polytechnic College**. With hands-on experience in various **cybersecurity tools** and **Linux platforms**, I am passionate about building efficient, lightweight systems and exploring the depths of **networking and security**. My experience includes developing innovative projects and participating in several technical events.
+I am a **Computer Science and Engineering** student at **Lovely Professional University** with a strong foundation in **Computer Engineering**  With hands-on experience in various **cybersecurity tools** and **Linux platforms**, I am passionate about building efficient, lightweight systems and exploring the depths of **networking and security**. My experience includes developing innovative projects and participating in several technical events.
 
 ---
 </div>
@@ -45,33 +45,9 @@ I am a **Computer Science and Engineering** student at **Lovely Professional Uni
 <br>
 
 <div align=center>
-	<p>My Telegram channel: <b><a href="https://t.me/hahacking">HaHacking</a></b></p>
 </div>
 <div align=center>
-	<a href="https://t.me/qwqoro">
-		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/telegram.svg"/>
-	</a>&nbsp;
-	<a href="https://habr.com/ru/users/qwqoro/">
-		<img width=36 height=36 alt="Habr" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/habr.svg"/>
-	</a>&nbsp;
-	<a href="https://vk.com/qwqoro">
-		<img width=36 height=36 alt="VK" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/vk.svg"/>
-	</a>&nbsp;
-	<a href="https://open.spotify.com/user/312b5tdw2ettpsksk2bkp4f7bsuu">
-		<img width=36 height=36 alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/spotify.svg"/>
-	</a>&nbsp;
-	<a href="https://steamcommunity.com/id/qwqoro">
-		<img width=36 height=36 alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/steam.svg"/>
-	</a>&nbsp;
-	<a href="https://app.hackthebox.com/profile/230798">
-		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/hackthebox.svg"/>
-	</a>&nbsp;
-	<a href="mailto:qwqoro@ya.ru">
-		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg"/>
-	</a>&nbsp;
-	<a href="https://matrix.to/#/@qwqoro:matrix.org">
-		<img width=36 height=36 alt="Matrix" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/matrix.svg"/>
-	</a>
+	
 </div>
 
 ## 💻 Projects

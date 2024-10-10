@@ -46,7 +46,7 @@ I am a **Computer Science and Engineering** student at **Lovely Professional Uni
 
 <div align=center>
 </div>
-| <a href="https://github.com/Adityaa007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Adityaa007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityaa007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aditya's github stats" /></a> | <a href="https://github.com/Adityaa007/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa007&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <div align=center>
 	

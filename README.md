@@ -54,18 +54,18 @@ I am a **Computer Science and Engineering** student at **Lovely Professional Uni
 
 ## 💻 Projects
 
--📒 Notes App
-Efficient Note Management: A lightweight note-taking app using the MERN stack, offering seamless CRUD operations.
+--📒 **Notes App**
+-Efficient Note Management: A lightweight note-taking app using the MERN stack, offering seamless CRUD operations.
 User Authentication: Secure login/signup for personalized notes.
 Sleek Interface: Clean design for an intuitive user experience.
 
--🌦️ Weather App
-Real-Time Forecasts: Displays current weather and 5-day forecasts for any city.
+--🌦️ **Weather App**
+-Real-Time Forecasts: Displays current weather and 5-day forecasts for any city.
 OpenWeatherMap Integration: Powered by the OpenWeatherMap API for accurate weather data.
 Responsive UI: Designed for a smooth experience on all devices.
 
--✅ Task App
-Task Tracking Made Easy: A task manager built with the MERN stack to create, update, and organize tasks.
+--✅ **Task App**
+-Task Tracking Made Easy: A task manager built with the MERN stack to create, update, and organize tasks.
 User Authentication: Secure access to your tasks with JWT.
 Intuitive Layout: Simple, drag-and-drop interface for easy task management.
 
